@@ -1,0 +1,25 @@
+body {
+    background-color: #FFF;
+}
+
+#logo {
+    width: 350px;
+    height: 247px;
+    margin: auto;
+
+}
+
+#logo img {
+    width: 350px;
+    height: 247px;
+}
+
+#caixa_login {
+    background: #FFF;
+    width: 450px;
+    height: 300px;
+    margin: -35px auto;
+    border: 1px solid #ccc;
+
+    
+}
